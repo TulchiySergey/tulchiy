@@ -7,7 +7,7 @@ echo 'Hello MainAcad';
 ?>
 <br><br>
 <b>
-    Второй блок
+    Второй блок (test)
 </b>
 <br>
 <?php
