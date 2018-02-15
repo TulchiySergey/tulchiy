@@ -1,7 +1,6 @@
+<pre>
 <?php
-/**
- * Created by PhpStorm.
- * User: tulchiysergey
- * Date: 08.02.2018
- * Time: 19:55
- */
+print_r($_GET);
+print_r($_SERVER);
+
+
